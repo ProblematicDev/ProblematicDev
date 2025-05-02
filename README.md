@@ -72,3 +72,10 @@ I love tackling complex systems, writing clean, scalable code, and staying curio
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+
+
+<h1 align = 'center'>
+  <img src="https://komarev.com/ghpvc/?username=ProblematicDev&style=for-the-badge" alt="Profile Views" />
+</h1>
+
