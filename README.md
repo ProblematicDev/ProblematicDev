@@ -1,4 +1,4 @@
-<h1 align="center">Yo 👋, I'm Mohamed Shalik Halaldeen — aka ProblematicDev</h1>
+<h1 align="center">Yo 👋, I'm Mohamed Shalik — aka ProblematicDev</h1>
 
 *Please don’t judge me by the username — I swear my code is less chaotic than it sounds.*
 
